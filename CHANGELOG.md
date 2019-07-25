@@ -4,6 +4,14 @@
 
 [1]: https://www.npmjs.com/package/gax-nodejs?activeTab=versions
 
+## [1.2.0](https://www.github.com/googleapis/gax-nodejs/compare/v1.1.5...v1.2.0) (2019-07-25)
+
+
+### Features
+
+* allow to pass just one file path to loadProto ([#543](https://www.github.com/googleapis/gax-nodejs/issues/543)) ([5429ad9](https://www.github.com/googleapis/gax-nodejs/commit/5429ad9))
+* reexport protobufjs from gax ([#544](https://www.github.com/googleapis/gax-nodejs/issues/544)) ([b86a2c6](https://www.github.com/googleapis/gax-nodejs/commit/b86a2c6))
+
 ### [1.1.5](https://www.github.com/googleapis/gax-nodejs/compare/v1.1.4...v1.1.5) (2019-07-13)
 
 ### Dependency upgrade
